@@ -13,3 +13,7 @@ build/
 轨迹/
 录屏/
 视频/
+.runtime/
+server/vendor/
+server/public/app/
+server/database/database.sqlite
